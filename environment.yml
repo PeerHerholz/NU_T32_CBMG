@@ -1,4 +1,4 @@
-name: course_name
+name: t2_cbmg
 channels:
   - conda-forge
   - defaults
