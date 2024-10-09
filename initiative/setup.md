@@ -1,8 +1,8 @@
-# Setup for the course
+# Setup for the training
 
-There are a few things you need to get working on your machine in order to follow this course. However, don't worry as it's all gonna be [open source](https://en.wikipedia.org/wiki/Open_source), won't require a lot of storage and will be explained in detail.
+There are a few things you need to get working on your machine in order to follow the material. However, don't worry as it's all gonna be [open source](https://en.wikipedia.org/wiki/Open_source), won't require a lot of storage and will be explained in detail.
 
-While same parts and section will be do-able via `cloud computing`, which is nice and easy to follow in an interactive manner, it's not recommended as getting `Python` & friends to work reliably on your machine is going to be very beneficial. This holds true for the course and especially beyond. Via installing these tools, you will be equipped to basically continue right away and start using them in your everyday research workflow. This even applies if you won't continue with `python` (I certainly hope you do.) and instead work with `R` (of course also cool), `matlab` (weeeeeeeell...) or what have you.  Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, you will find a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the course, they all will help you a great deal going further and are especially useful/needed if we have to hold the course virtually due to the COVID-19 pandemic.  
+While same parts and section will be do-able via `cloud computing`, which is nice and easy to follow in an interactive manner, it's not recommended as getting `Python` & friends to work reliably on your machine is going to be very beneficial. This holds true for the material and especially beyond. Via installing these tools, you will be equipped to basically continue right away and start using them in your everyday research workflow. This even applies if you won't continue with `python` (I certainly hope you do.) and instead work with `R` (of course also cool), `matlab` (weeeeeeeell...) or what have you.  Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, you will find a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the material, they all will help you a great deal going further and are especially useful/needed if we have to hold the material virtually due to the COVID-19 (or other) pandemic(s).  
 
 Don't worry, you got this!
 
@@ -12,17 +12,17 @@ Don't worry, you got this!
 
 ## General things
 
-There are a few computing requirements for the course that are absolutely necessary (beyond the few software packages you should install, described below):
+There are a few computing requirements for the material that are absolutely necessary (beyond the few software packages you should install, described below):
 
 1. You must have administrator access to your computer (i.e., you must be able to install things yourself without requesting IT approval).
 1. You must have at least 20 GB of free disk space on your computer (but we would recommend more, to be safe).
-1. If you are using Windows you must be using Windows 10; Windows 7 and 8 will not be sufficient for this course.
+1. If you are using Windows you must be using Windows 10; Windows 7 and 8 will not be sufficient for this material.
 
-If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready for the course start.
+If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready.
 
 ## Required software
 
-To get the most out of the course, we ask that you arrive with the following software already installed:
+To get the most out of the material, we ask that you arrive with the following software already installed:
 
 - A command-line shell: `Bash`
 - A version control system: [Git](https://git-scm.com/) & [DataLad](https://www.datalad.org/)
@@ -33,7 +33,7 @@ To get the most out of the course, we ask that you arrive with the following sof
 - [Discord](https://discord.com/)
 - A `modern browser` (e.g. [Chrome](https://www.google.com/chrome/index.html), or [Firefox](https://www.mozilla.org/en-CA/firefox/new/))
 
-If you already have all of the above software tools/packages installed, or are confident you’ll be able to install them by the time the course starts, you can jump straight to [checking your install](#checking-your-install).
+If you already have all of the above software tools/packages installed, or are confident you’ll be able to install them by the time things starts, you can jump straight to [checking your install](#checking-your-install).
 The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (`Windows`, `Mac OS`, and `Linux`).
 
 ### Some quick general notes on instructions
@@ -43,7 +43,7 @@ The rest of this page provides more detail on installation procedures for each o
   However, you need to make sure that you are able to complete the steps described in [checking your install](#checking-your-install) without issue.
   - For example, having multiple different `Python` installations on your computer can lead to incredibly frustrating issues that are very difficult to debug.
     As such, if you have already installed `Python` via some other application (not `Miniconda`/`Anaconda`), it's strongly encouraged to uninstall it before following the instructions below.
-    You _must_ have `Python` installed via `Miniconda` for this course.
+    You _must_ have `Python` installed via `Miniconda` for this material.
 
 ### OS-specific installation instructions
 
@@ -363,7 +363,7 @@ It is a good idea to associate this with your university e-mail (if you have one
 ### Discord
 
 Go to https://discord.com/ and download and install Discord. Please note, that you can also use Discord through your browser if you don't want to download it.
-You will be invited to the course channel via e-mail.
+You will be invited to the channel via e-mail.
 
 ### Modern web browser
 
@@ -386,7 +386,7 @@ A few of the tools you installed additionally nicely integrate with one another.
 
 1. A [Google Chrome Extension](https://chrome.google.com/webstore/detail/citation-transparency/cepnbdbhabaljgecaddglhhcgajphbcf?hl=en) targeting citation transparency focusing gender imbalance. Going further, your `Zotero library` can also be used to [create a diversity statement](https://github.com/dalejn/cleanBib#instructions) which can be added to your written submissions. Find out more about it on [Dani Bassett](https://complexsystemsupenn.com/)'s [lab website](https://complexsystemsupenn.com/diversity-1).
 2. [Grammarly](https://www.grammarly.com/): an AI powered cloud-based writing assistant that can help with typos, spelling, grammar, punctuation, clarity, engagement, and delivery mistakes. The basic version is free and integrates nicely with browsers and local apps. 
-3. [GitKraken Glo Boards](https://app.gitkraken.com/glo/): create and track tasks for better project management.
+3. [GitHub Project Management](https://github.blog/developer-skills/github/getting-started-with-project-planning-on-github/): create and track tasks for better project management.
 4. Get a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) app that helps you to stay focus, track your work and get things done. For some examples check this [list](https://www.jotform.com/blog/best-pomodoro-app/).  
 
 ## Checking your install
@@ -394,34 +394,34 @@ A few of the tools you installed additionally nicely integrate with one another.
 Now that you've installed everything it's time to check that everything works as expected!
 Type the following into your terminal:
 
-    bash <( curl -s https://raw.githubusercontent.com/spark-csd/course_name/main/check_install.sh)
+    bash <( curl -s https://raw.githubusercontent.com/peerherholz/TU_T32_CBMG/main/check_install.sh)
 
 If you installed everything correctly you should see a message informing you as such.
 If any problems were detected you should receive some brief instructions on what is wrong with potential suggestions on how to remedy it.
-If you followed these instructions step-by-step and cannot resolve the issue please contact one of the course instructors for more help.
+If you followed these instructions step-by-step and cannot resolve the issue please contact one of the instructors for more help.
 
 Yeah, you did! Great job!
 
 ![logo](https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158)\
 <sub><sup><sub><sup>https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158</sup></sub></sup></sub>
 
-## Getting the course content
+## Getting the content
 
-Now that you have installed the required software (or not) to follow the course, it's time to gather the respective materials.
+Now that you have installed the required software (or not) to follow the material, it's time to gather the respective materials.
 
 ```{tabbed} Local
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/>\
 <sub><sup><sub><sup>https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg</sup></sub></sup></sub>
 
-By installing `Python` on your system (i.e. specifically `Conda`) and setting up the appropriate environment, you will be able to open all the `Jupyter Notebooks` and go through the whole content of the course locally. 
+By installing `Python` on your system (i.e. specifically `Conda`) and setting up the appropriate environment, you will be able to open all the `Jupyter Notebooks` and go through the whole content of locally. 
 
 To get things up and running, please follow these steps:
 
-1. Download the [`environment.yml`](https://raw.githubusercontent.com/spark-csd/course_name/main/environment.yml) file (e.g. with right mouse click -> Save As). Make sure that the file ends with `.yml` and not `.txt`.
+1. Download the [`environment.yml`](https://raw.githubusercontent.com/peerherholz/NU_T32_CBMG/main/environment.yml) file (e.g. with right mouse click -> Save As). Make sure that the file ends with `.yml` and not `.txt`.
 2. Open up a conda terminal (or any other terminal), and create a new conda environment with the following command: `conda env create -f /path/to/file/environment.yml` - For example `conda env create -f ~/Downloads/environment.yml`
-3. Download the notebooks in this repository via [this link](https://github.com/spark-csd/course_name/archive/main.zip)) and unzip them to your preferred location, e.g. `Desktop/course_name` or via the Download option in the respective sections.
-4. Next, open up a `conda terminal` (or any other `terminal`), activate the `conda environment` with `conda activate course_name_env` (or on older `conda environment` with `source activate course_name_env` for `mac` and `linux` and `activate course_name_env` for `windows`).
-5. Finally, via the `terminal`, move to the folder where you've put all the unzipped content of this workshop, e.g. with the command `cd ~/Desktop/course_name` and run the command `jupyter notebook`. If the `notebook server` isn't automatically opened in a new browser window, please copy-paste either the `http://127.0.0.1:8888/...` or the `http://localhost:8888/...` path into a new browser window and press `Enter`. You should now see the `jupyter notebook server` (looking like a file browser and displaying the content of the directory). 
+3. Download the notebooks in this repository via [this link](https://github.com/peerherholz/NU_T32_CBMG/archive/main.zip)) and unzip them to your preferred location, e.g. `Desktop/NU_T32_CBMG` or via the Download option in the respective sections.
+4. Next, open up a `conda terminal` (or any other `terminal`), activate the `conda environment` with `conda activate NU_T32_CBMG_env` (or on older `conda environment` with `source activate NU_T32_CBMG_env` for `mac` and `linux` and `activate NU_T32_CBMG_env` for `windows`).
+5. Finally, via the `terminal`, move to the folder where you've put all the unzipped content of this workshop, e.g. with the command `cd ~/Desktop/NU_T32_CBMG` and run the command `jupyter notebook`. If the `notebook server` isn't automatically opened in a new browser window, please copy-paste either the `http://127.0.0.1:8888/...` or the `http://localhost:8888/...` path into a new browser window and press `Enter`. You should now see the `jupyter notebook server` (looking like a file browser and displaying the content of the directory). 
 ```
 
 ```{tabbed} Cloud via Mybinder
@@ -430,16 +430,16 @@ To get things up and running, please follow these steps:
 <sub><sup><sub><sup>https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b</sup></sub></sup></sub>
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spark-csd/course_name/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/NU_T32_CBMG/HEAD)
 
 [MyBinder.org](https://mybinder.org/) is a great service that allows you to run Jupyter notebooks in a `Docker` or `Python` `environment`, directly online and for free. However, this service comes of course with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory.
 
-You can use this approach to run and test most of the notebooks and to explore the slides. To access the MyBinder instance, use [this link](https://mybinder.org/v2/gh/spark-csd/course_name/HEAD).
+You can use this approach to run and test most of the notebooks and to explore the slides. To access the MyBinder instance, use [this link](https://mybinder.org/v2/gh/peerherholz/NU_T32_CBMG/HEAD).
 ```
 
 ## Enter the matrix
 
-Once you reached this point, you should be ready the enter the matrix and follow the course in your preferred way. Congrats, fantastic work!
+Once you reached this point, you should be ready the enter the matrix and follow the material in your preferred way. Congrats, fantastic work!
 
 ![logo](https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236)\
 <sub><sup><sub><sup>https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236</sup></sub></sup></sub>
