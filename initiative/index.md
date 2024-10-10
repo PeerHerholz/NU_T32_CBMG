@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://raw.githubusercontent.com/peerherholz/NU_T32_CBMG/main/lecture/static/T32_CBMG_logo.png" alt="logo" title="logo" width="400" height="300" />
+<img align="right" src="https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/T32_CBMG_logo.png" alt="logo" title="logo" width="400" height="300" />
 
 # Welcome!
 
@@ -62,7 +62,7 @@ You can use the following sections to navigate through the content of the course
 :height: 100
 ```
 
-What's this initiative about?.
+What's this initiative about?
 +++
 Explore this section {fas}`arrow-right`
 :::
@@ -79,7 +79,7 @@ Explore this section {fas}`arrow-right`
 :height: 100
 ```
 
-What aspects are taught?
+What aspects are taught and when?
 +++
 Explore this section {fas}`arrow-right`
 :::
@@ -108,11 +108,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://peerherholz.github.io/NU_T32_CBMG/introduction/introduction.html
+:link: https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html
 
 **Lectures**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/course_outline.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/lectures_logo.png
 :height: 100
 ```
 
@@ -125,11 +125,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://peerherholz.github.io/NU_T32_CBMG/experimentation/experimentation.html
+:link: https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html
 
 **Tutorials**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/course_outline.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/tutorials_logo.png
 :height: 100
 ```
 
@@ -142,11 +142,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://peerherholz.github.io/NU_T32_CBMG/finalization/finalization.html
+:link: https://peerherholz.github.io/NU_T32_CBMG/consultations/pages/consultations.html
 
 **Consultations**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/course_outline.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/consultations_logo.png
 :height: 100
 ```
 
