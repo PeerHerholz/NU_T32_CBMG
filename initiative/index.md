@@ -58,7 +58,7 @@ You can use the following sections to navigate through the content of the course
 :link: https://peerherholz.github.io/NU_T32_CBMG/overview.html
 **Overview & procedure**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/course_outline.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/overview_logo.png
 :height: 100
 ```
 
@@ -75,7 +75,7 @@ Explore this section {fas}`arrow-right`
 
 **General outline**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/course_outline.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/outline_logo.png
 :height: 100
 ```
 
@@ -92,7 +92,7 @@ Explore this section {fas}`arrow-right`
 
 **Course setup**
 ^^^
-```{image} https://peerherholz.github.io/NU_T32_CBMG/static/course_graphics/computing_env.png
+```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/setup_logo.png
 :height: 100
 ```
 
