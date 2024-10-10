@@ -1,22 +1,19 @@
-![logo](lecture/static/course_name_logo.png)
+![logo](https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/T32_CBMG_logo.png)
 
 # The SPARK course template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spark-csd/mybinder_course_name/HEAD)
-[![GitHub size](https://github-size-badge.herokuapp.com/spark-csd/course_name.svg)](https://github.com/spark-csd/course_name/archive/master.zip)
-[![Docker Hub](https://img.shields.io/docker/pulls/spark-csd/course_name)](https://hub.docker.com/r/spark-csd/course_name)
-[![License](https://img.shields.io/github/license/spark-csd/course_name)](https://github.com/spark-csd/course_name)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/mybinder_NU_T32_CBMG/HEAD)
+[![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/NU_T32_CBMG.svg)](https://github.com/peerherholz/NU_T32_CBMG/archive/master.zip)
+[![Docker Hub](https://img.shields.io/docker/pulls/peerherholz/NU_T32_CBMG)](https://hub.docker.com/r/peerherholz/NU_T32_CBMG)
+[![License](https://img.shields.io/github/license/peerherholz/NU_T32_CBMG)](https://github.com/peerherholz/NU_T32_CBMG)
 
 
 ## "What's in this repository?"
 
-This repository contains the template for `SPARK` courses at Northwestern University.
+This repository contains the website resources for the [The Training Program in the Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) at Northwestern University.
 
-Through this template, we hope to streamline the creation, management, sustainability and distribution of courses conducted as part of `SPARK`. All courses created through this template are intended to either work as quarter-long courses or 3-5 day workshops.
-
-Members of `SPARK` or anyone interested can use this template to create new courses. We created another repository to outline how this template can be used. 
-
+Through this resource, we hope to streamline the creation, management, sustainability and distribution of the respective materials.
 
 ## "I have some questions..."
 
-[Open an issue](https://github.com/spark-csd/course_template/issues) on this repository and someone will try and get back to you as soon as possible!
+[Open an issue](https://github.com/peerherholz/NU_T32_CBMG/issues) on this repository and someone will try and get back to you as soon as possible!
