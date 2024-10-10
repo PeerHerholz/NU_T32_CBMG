@@ -60,7 +60,7 @@ Below you will find important details regarding the course summarized in a compa
 
 #### When and where
 
-As this won't be a "classic" course that entails weekly lectures/assignments, etc. but instead utilizes a different outline that is oriented along the research process, we will have sessions with varying content. Combined with a strong focus on project work and direct support, we will organize meetings as we go with all participants. Thus, please watch out for E-Mails/Discord notifications! However, we will definitely meet once a month during the `CBMG hours`, Wednesdays at 12 PM.
+As this won't be a "classic" course that entails weekly lectures/assignments, etc. but instead utilizes a different outline that is oriented along the research process, we will have sessions with varying content. Combined with a strong focus on project work and direct support, we will organize some meetings as we go. Thus, please watch out for E-Mails/Discord notifications! However, we will definitely meet once a month during the `CBMG hours`, Wednesdays at 12 PM.
 
 The in-person meetings will either take place in [Simpson-Querrey 1M-200, Krantz](https://maps.app.goo.gl/c4vQKHK5xqhRGmhx9) 
 
