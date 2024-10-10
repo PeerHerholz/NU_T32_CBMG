@@ -56,7 +56,7 @@ You can use the following sections to navigate through the content of the course
 :class-body: text-center
 :class-header: bg-light text-center
 :link: https://peerherholz.github.io/NU_T32_CBMG/overview.html
-**Overview & procedure**
+**Overview**
 ^^^
 ```{image} https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/overview_logo.png
 :height: 100
