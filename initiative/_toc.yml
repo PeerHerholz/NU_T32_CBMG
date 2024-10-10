@@ -3,6 +3,7 @@ format: jb-book
 chapters:
 - file: dei
 - file: overview
+- file: outline
 - file: setup
 - file: lectures/pages/lectures.md
   sections:
