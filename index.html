@@ -178,10 +178,13 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="outline.html">General outline</a></li>
 <li class="toctree-l1"><a class="reference internal" href="setup.html">Setup for the training</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="lectures/pages/lectures.html">Lectures</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="lectures/pages/data_mgmt_sharing.html">Data management &amp; sharing</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="lectures/pages/data_mgmt_sharing.html">Data management &amp; sharing</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="lectures/notebooks/pybids.html">Introduction to <code class="docutils literal notranslate"><span class="pre">pybids</span></code></a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="tutorials/pages/tutorials.html">Tutorials</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="tutorials/pages/tutorials.html">Tutorials</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="consultations/pages/consultations.html">Consultations</a></li>
@@ -418,8 +421,8 @@ document.write(`
 <h1>Welcome!<a class="headerlink" href="#welcome" title="Permalink to this heading">#</a></h1>
 <aside class="margin sidebar">
 <p class="sidebar-title"></p>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
 <p>These pages are currently under construction and will be updated continuously.
 Please visit these pages again in the next few weeks for further information.</p>
 </div>
@@ -439,13 +442,21 @@ Please visit these pages again in the next few weeks for further information.</p
  </div>
 <section id="t32-cbmg-data-design-workshops">
 <h2>T32 CBMG Data &amp; Design Workshops<a class="headerlink" href="#t32-cbmg-data-design-workshops" title="Permalink to this heading">#</a></h2>
-<p>No matter the scientific field: obtaining a solid understanding of and gaining substantial hands-on experience with research processes and workflows is crucial, with the tremendously versatile field of <code class="docutils literal notranslate"><span class="pre">Human</span> <span class="pre">Cognition</span></code> and <code class="docutils literal notranslate"><span class="pre">Cognitive</span> <span class="pre">Brain</span> <span class="pre">Mapping</span></code> being no exception to that. Importantly, critical thinking &amp; evaluation, research project management, quantitative &amp; qualitative analyses, etc. enable a holistic approach to the exploration of this fascinating research field. But how should folks learn these things? <a class="reference external" href="https://cogns.northwestern.edu/Training.html">The Training Program in the Neuroscience of Human Cognition</a> approaches this problem by providing a multitude of training opportunities and support to early career researchers. One major aspect of this aim is to offer courses and tutorials concerning foundational aspects such as data science &amp; management, as well as open &amp; reproducible science. This furthermore entails consultations and office hours for individual researchers and their data.</p>
-<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p>
+<div style="text-align: justify"> 
+<p>No matter the scientific field: obtaining a solid understanding of and gaining substantial hands-on experience with research processes and workflows is crucial, with the tremendously versatile field of <code class="docutils literal notranslate"><span class="pre">Human</span> <span class="pre">Cognition</span></code> and <code class="docutils literal notranslate"><span class="pre">Cognitive</span> <span class="pre">Brain</span> <span class="pre">Mapping</span></code> being no exception to that. Importantly, critical thinking &amp; evaluation, research project management, quantitative &amp; qualitative analyses, etc. enable a holistic approach to the exploration of this fascinating research field. But how should folks learn these things? <a class="reference external" href="https://cogns.northwestern.edu/Training.html">The Training Program in the Neuroscience of Human Cognition</a> approaches this problem by providing a multitude of training opportunities and support to early career researchers. One major aspect of this aim is to offer lectures and tutorials concerning foundational aspects such as data science &amp; management, as well as open &amp; reproducible science. This furthermore entails consultations and office hours for individual researchers and their data.</p>
+</div>
+<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+<!-- <p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p> -->
+<div style="text-align: justify"> 
 <p>Importantly, all of this will be conducted based on <a class="reference external" href="https://en.wikipedia.org/wiki/Open_science">open science principles</a>. This has several important reasons: addressing the faulty direction science and academia in via changing incentive structures (<a class="reference external" href="https://en.wikipedia.org/wiki/Open-notebook_science">open methodology</a>, <a class="reference external" href="https://en.wikipedia.org/wiki/Open_data">open data</a>, <a class="reference external" href="https://en.wikipedia.org/wiki/Open_access">open access</a>,<a class="reference external" href="https://en.wikipedia.org/wiki/Open_peer_review">open peer review</a>), enable students to become active and self-sufficient parts of the research and scientific community via the sole utilization of <a class="reference external" href="https://en.wikipedia.org/wiki/Open_source">open-source software</a> and <a class="reference external" href="https://en.wikipedia.org/wiki/Open_educational_resources">open educational resources</a>, as well as increasing the <a class="reference external" href="https://www.psychologicalscience.org/observer/words-to-action">diversity and inclusivity of science and academia</a> via the diminution of hurdles and barriers: science by everyone for everyone in an open and welcoming manner.</p>
-<p align="center"><iframe src="https://giphy.com/embed/1oIlL0oaAXUJz2xR4o" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/mostexpensivest-viceland-most-expensivest-1oIlL0oaAXUJz2xR4o"><small>via GIPHY</small></a></p></p>
+</div>
+<p align="center"><iframe src="https://giphy.com/embed/1oIlL0oaAXUJz2xR4o" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+<!-- <p align="center"><a href="https://giphy.com/gifs/mostexpensivest-viceland-most-expensivest-1oIlL0oaAXUJz2xR4o"><small><small><small>via GIPHY</small></small></small></a></p></p> -->
+<div style="text-align: justify"> 
 <p>As you can see in the <code class="docutils literal notranslate"><span class="pre">TOC</span></code> on the left sidebar, there’s quite a bunch going on here. You may ask: “Oh my, is all of this really necessary?”. Well, it might depend on who you ask but this initiative and the people organizing it think so and here’s why: creating a structured and holistic way to empirically train ECR via a complex framework needs time, effort, details, and dedication. Additionally, to increase openness and sustainability, and thus ultimately the success rate of projects, these things need to be prepared and supplied in a way that is findable, accessible, interoperable and re-usable (<a class="reference external" href="https://en.wikipedia.org/wiki/FAIR_data">FAIR</a>) for as many people as possible.
 This course is therefore designed to provide only <code class="docutils literal notranslate"><span class="pre">FAIR</span></code> content and materials.</p>
 <p>You can use the following sections to navigate through the content of the course:</p>
+</div>
 <div class="sd-sphinx-override sd-cards-carousel sd-card-cols-3 docutils">
 <div class="sd-card sd-sphinx-override sd-m-3 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-header bg-light text-center docutils">
@@ -525,14 +536,18 @@ This course is therefore designed to provide only <code class="docutils literal 
 </section>
 <section id="i-ve-got-a-question">
 <h2>I’ve got a question!<a class="headerlink" href="#i-ve-got-a-question" title="Permalink to this heading">#</a></h2>
+<div style="text-align: justify"> 
 <p>In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch. A great way to do this is to <a class="reference external" href="https://github.com/peerherholz/NU_T32_CBMG/issues">open an issue</a> on the
 GitHub site of the course. Every feedback or idea or you might have is also highly appreciated and valued.</p>
-<p align="center"><iframe src="https://giphy.com/embed/ATt7p8OO4mvvO" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/photos-street-sesame-ATt7p8OO4mvvO"><small>via GIPHY</small></a></p></p>
+</div>
+<p align="center"><iframe src="https://giphy.com/embed/ATt7p8OO4mvvO" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+<!-- <p align="center"><a href="https://giphy.com/gifs/photos-street-sesame-ATt7p8OO4mvvO"><small>via GIPHY</small></a></p></p> -->
 </section>
 <section id="acknowledgements">
 <h2>Acknowledgements<a class="headerlink" href="#acknowledgements" title="Permalink to this heading">#</a></h2>
+<div style="text-align: justify"> 
 <p>This initiative is supported by the <a class="reference external" href="https://cogns.northwestern.edu/Training.html">T32 in Human Cognition at Northwestern University</a>.</p>
-</section>
+</div></section>
 <div class="toctree-wrapper compound">
 </div>
 </section>

@@ -177,10 +177,13 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="outline.html">General outline</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Setup for the training</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="lectures/pages/lectures.html">Lectures</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="lectures/pages/data_mgmt_sharing.html">Data management &amp; sharing</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="lectures/pages/data_mgmt_sharing.html">Data management &amp; sharing</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="lectures/notebooks/pybids.html">Introduction to <code class="docutils literal notranslate"><span class="pre">pybids</span></code></a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="tutorials/pages/tutorials.html">Tutorials</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="tutorials/pages/tutorials.html">Tutorials</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul class="simple">
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="consultations/pages/consultations.html">Consultations</a></li>
@@ -423,13 +426,15 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="setup-for-the-training">
 <h1>Setup for the training<a class="headerlink" href="#setup-for-the-training" title="Permalink to this heading">#</a></h1>
+<div style="text-align: justify"> 
 <p>There are a few things you need to get working on your machine in order to follow the material. However, don’t worry as it’s all gonna be <a class="reference external" href="https://en.wikipedia.org/wiki/Open_source">open source</a>, won’t require a lot of storage and will be explained in detail.</p>
 <p>While same parts and section will be do-able via <code class="docutils literal notranslate"><span class="pre">cloud</span> <span class="pre">computing</span></code>, which is nice and easy to follow in an interactive manner, it’s not recommended as getting <code class="docutils literal notranslate"><span class="pre">Python</span></code> &amp; friends to work reliably on your machine is going to be very beneficial. This holds true for the material and especially beyond. Via installing these tools, you will be equipped to basically continue right away and start using them in your everyday research workflow. This even applies if you won’t continue with <code class="docutils literal notranslate"><span class="pre">python</span></code> (I certainly hope you do.) and instead work with <code class="docutils literal notranslate"><span class="pre">R</span></code> (of course also cool), <code class="docutils literal notranslate"><span class="pre">matlab</span></code> (weeeeeeeell…) or what have you.  Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, you will find a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the material, they all will help you a great deal going further and are especially useful/needed if we have to hold the material virtually due to the COVID-19 (or other) pandemic(s).</p>
 <p>Don’t worry, you got this!</p>
-<p><img alt="logo" src="https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805" /><br />
-<sub><sup><sub><sup><a class="reference external" href="https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805">https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805</a></sup></sub></sup></sub></p>
+<p align="center"><iframe src="https://giphy.com/embed/XreQmk7ETCak0" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+</div>
 <section id="general-things">
 <h2>General things<a class="headerlink" href="#general-things" title="Permalink to this heading">#</a></h2>
+<div style="text-align: justify"> 
 <p>There are a few computing requirements for the material that are absolutely necessary (beyond the few software packages you should install, described below):</p>
 <ol class="arabic simple">
 <li><p>You must have administrator access to your computer (i.e., you must be able to install things yourself without requesting IT approval).</p></li>
@@ -437,10 +442,12 @@ document.write(`
 <li><p>If you are using Windows you must be using Windows 10; Windows 7 and 8 will not be sufficient for this material.</p></li>
 </ol>
 <p>If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready.</p>
+</div>
 </section>
 <section id="required-software">
 <h2>Required software<a class="headerlink" href="#required-software" title="Permalink to this heading">#</a></h2>
-<p>To get the most out of the material, we ask that you arrive with the following software already installed:</p>
+<div style="text-align: justify"> 
+<p>To get the most out of the material, we suggest that you check with the following software. Please note, that you do not need to install everything but only the things that you would like to actively participate in. However, it is a great base setup to further dive into all things (neuro)data science and open/reproducible science.</p>
 <ul class="simple">
 <li><p>A command-line shell: <code class="docutils literal notranslate"><span class="pre">Bash</span></code></p></li>
 <li><p>A version control system: <a class="reference external" href="https://git-scm.com/">Git</a> &amp; <a class="reference external" href="https://www.datalad.org/">DataLad</a></p></li>
@@ -453,8 +460,10 @@ document.write(`
 </ul>
 <p>If you already have all of the above software tools/packages installed, or are confident you’ll be able to install them by the time things starts, you can jump straight to <span class="xref myst">checking your install</span>.
 The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (<code class="docutils literal notranslate"><span class="pre">Windows</span></code>, <code class="docutils literal notranslate"><span class="pre">Mac</span> <span class="pre">OS</span></code>, and <code class="docutils literal notranslate"><span class="pre">Linux</span></code>).</p>
+</div>
 <section id="some-quick-general-notes-on-instructions">
 <h3>Some quick general notes on instructions<a class="headerlink" href="#some-quick-general-notes-on-instructions" title="Permalink to this heading">#</a></h3>
+<div style="text-align: justify"> 
 <ul class="simple">
 <li><p>There is no difference between <code class="docutils literal notranslate"><span class="pre">Enter</span></code> and <code class="docutils literal notranslate"><span class="pre">Return</span></code> in these instructions, so just press whatever the equivalent on your keyboard is whenever one is stated</p></li>
 <li><p>If you already have some of these things installed on your computer already that should (theoretically) be okay.
@@ -466,11 +475,14 @@ You <em>must</em> have <code class="docutils literal notranslate"><span class="p
 </ul>
 </li>
 </ul>
+</div>
 </section>
 <section id="os-specific-installation-instructions">
 <h3>OS-specific installation instructions<a class="headerlink" href="#os-specific-installation-instructions" title="Permalink to this heading">#</a></h3>
+<div style="text-align: justify"> 
 <p>Select the tab that corresponds to your operating system and follow the instructions therein.
 You can, of course, skip sections of tools you have already installed/set up. However, please make sure to run our little <code class="docutils literal notranslate"><span class="pre">installation</span> <span class="pre">test</span> <span class="pre">script</span></code> outlined at the end of this section and in case, something doesn’t work out install the respective tool(s) as outlined here.</p>
+</div>
 <div class="sd-tab-set docutils">
 <input checked="checked" id="sd-tab-item-0" name="sd-tab-set-0" type="radio">
 </input><label class="sd-tab-label" for="sd-tab-item-0">
@@ -772,22 +784,29 @@ If your issue is still not resolved skip the following step and contact an instr
 </div>
 </div>
 </div>
+<div style="text-align: justify"> 
 <p><strong>Note</strong>: If the instructions aren’t working and you have spent more than 15-20 minutes troubleshooting on your own, reach out on the #help-installation channel on the Discord channel with the exact problems you’re having.
 One of the instructors will try and get back to you quickly to help resolve the situation.
 If they’re unable to help via <code class="docutils literal notranslate"><span class="pre">Discord</span></code>, you may be directed to attend one of the installation office hours.</p>
+</div>
 </section>
 <section id="github-account">
 <h3>GitHub account<a class="headerlink" href="#github-account" title="Permalink to this heading">#</a></h3>
+<div style="text-align: justify"> 
 <p>Go to <a class="github reference external" href="https://github.com/join/">join/</a> and follow the on-screen instructions to create an account.
 It is a good idea to associate this with your university e-mail (if you have one) as this will entitle you to sign up for the <a class="reference external" href="https://education.github.com/pack">GitHub Student Developer Pack</a> which comes with some nice free bonuses.</p>
+</div>
 </section>
 <section id="discord">
 <h3>Discord<a class="headerlink" href="#discord" title="Permalink to this heading">#</a></h3>
+<div style="text-align: justify"> 
 <p>Go to <a class="reference external" href="https://discord.com/">https://discord.com/</a> and download and install Discord. Please note, that you can also use Discord through your browser if you don’t want to download it.
 You will be invited to the channel via e-mail.</p>
+</div>
 </section>
 <section id="modern-web-browser">
 <h3>Modern web browser<a class="headerlink" href="#modern-web-browser" title="Permalink to this heading">#</a></h3>
+<div style="text-align: justify"> 
 <p>Please install <a class="reference external" href="https://www.google.com/chrome/index.html">Chrome</a> or <a class="reference external" href="https://www.mozilla.org/en-CA/firefox/new/">Firefox</a>.
 (Safari might also work.)
 Microsoft Edge is not modern, despite what Microsoft might try and otherwise tell you.</p>
@@ -806,10 +825,12 @@ Microsoft Edge is not modern, despite what Microsoft might try and otherwise tel
 <li><p><a class="reference external" href="https://github.blog/developer-skills/github/getting-started-with-project-planning-on-github/">GitHub Project Management</a>: create and track tasks for better project management.</p></li>
 <li><p>Get a <a class="reference external" href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoro</a> app that helps you to stay focus, track your work and get things done. For some examples check this <a class="reference external" href="https://www.jotform.com/blog/best-pomodoro-app/">list</a>.</p></li>
 </ol>
+</div>
 </section>
 </section>
 <section id="checking-your-install">
 <h2>Checking your install<a class="headerlink" href="#checking-your-install" title="Permalink to this heading">#</a></h2>
+<div style="text-align: justify"> 
 <p>Now that you’ve installed everything it’s time to check that everything works as expected!
 Type the following into your terminal:</p>
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>bash &lt;( curl -s https://raw.githubusercontent.com/peerherholz/TU_T32_CBMG/main/check_install.sh)
@@ -819,19 +840,21 @@ Type the following into your terminal:</p>
 If any problems were detected you should receive some brief instructions on what is wrong with potential suggestions on how to remedy it.
 If you followed these instructions step-by-step and cannot resolve the issue please contact one of the instructors for more help.</p>
 <p>Yeah, you did! Great job!</p>
-<p><img alt="logo" src="https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158" /><br />
-<sub><sup><sub><sup><a class="reference external" href="https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158">https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158</a></sup></sub></sup></sub></p>
+<p align="center"><iframe src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+</div>
 </section>
 <section id="getting-the-content">
 <h2>Getting the content<a class="headerlink" href="#getting-the-content" title="Permalink to this heading">#</a></h2>
-<p>Now that you have installed the required software (or not) to follow the material, it’s time to gather the respective materials.</p>
+<div style="text-align: justify"> 
+<p>Now that you have installed the required software (or not) to follow the material, it’s time to gather the respective materials. Please note, that you only need to go through these steps if you need/want to work on/with the notebooks, code and data we went through in the <a class="reference external" href="https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html">Lectures</a> and <a class="reference external" href="https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html">Tutorials</a>. The <code class="docutils literal notranslate"><span class="pre">slides</span></code> and related content are always directly linked.</p>
+</div>
 </section>
 <section id="enter-the-matrix">
 <h2>Enter the matrix<a class="headerlink" href="#enter-the-matrix" title="Permalink to this heading">#</a></h2>
+<div style="text-align: justify"> 
 <p>Once you reached this point, you should be ready the enter the matrix and follow the material in your preferred way. Congrats, fantastic work!</p>
-<p><img alt="logo" src="https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236" /><br />
-<sub><sup><sub><sup><a class="reference external" href="https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236">https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236</a></sup></sub></sup></sub></p>
-</section>
+<p align="center"><iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRjY29vbnhhb2J6ejBrdXRnbWx4ZHMzMjFkc2U1cXNvOHBiZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+</div></section>
 </section>
 
     <script type="text/x-thebe-config">

@@ -1,16 +1,23 @@
 # Setup for the training
 
+<div style="text-align: justify"> 
+
+
 There are a few things you need to get working on your machine in order to follow the material. However, don't worry as it's all gonna be [open source](https://en.wikipedia.org/wiki/Open_source), won't require a lot of storage and will be explained in detail.
 
 While same parts and section will be do-able via `cloud computing`, which is nice and easy to follow in an interactive manner, it's not recommended as getting `Python` & friends to work reliably on your machine is going to be very beneficial. This holds true for the material and especially beyond. Via installing these tools, you will be equipped to basically continue right away and start using them in your everyday research workflow. This even applies if you won't continue with `python` (I certainly hope you do.) and instead work with `R` (of course also cool), `matlab` (weeeeeeeell...) or what have you.  Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, you will find a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the material, they all will help you a great deal going further and are especially useful/needed if we have to hold the material virtually due to the COVID-19 (or other) pandemic(s).  
 
 Don't worry, you got this!
 
-![logo](https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805)\
-<sub><sup><sub><sup>https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805</sup></sub></sup></sub>
 
+<p align="center"><iframe src="https://giphy.com/embed/XreQmk7ETCak0" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+
+
+</div>
 
 ## General things
+
+<div style="text-align: justify"> 
 
 There are a few computing requirements for the material that are absolutely necessary (beyond the few software packages you should install, described below):
 
@@ -20,9 +27,13 @@ There are a few computing requirements for the material that are absolutely nece
 
 If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready.
 
+</div>
+
 ## Required software
 
-To get the most out of the material, we ask that you arrive with the following software already installed:
+<div style="text-align: justify"> 
+
+To get the most out of the material, we suggest that you check with the following software. Please note, that you do not need to install everything but only the things that you would like to actively participate in. However, it is a great base setup to further dive into all things (neuro)data science and open/reproducible science.
 
 - A command-line shell: `Bash`
 - A version control system: [Git](https://git-scm.com/) & [DataLad](https://www.datalad.org/)
@@ -36,7 +47,11 @@ To get the most out of the material, we ask that you arrive with the following s
 If you already have all of the above software tools/packages installed, or are confident you’ll be able to install them by the time things starts, you can jump straight to [checking your install](#checking-your-install).
 The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (`Windows`, `Mac OS`, and `Linux`).
 
+</div>
+
 ### Some quick general notes on instructions
+
+<div style="text-align: justify"> 
 
 - There is no difference between `Enter` and `Return` in these instructions, so just press whatever the equivalent on your keyboard is whenever one is stated
 - If you already have some of these things installed on your computer already that should (theoretically) be okay.
@@ -45,10 +60,16 @@ The rest of this page provides more detail on installation procedures for each o
     As such, if you have already installed `Python` via some other application (not `Miniconda`/`Anaconda`), it's strongly encouraged to uninstall it before following the instructions below.
     You _must_ have `Python` installed via `Miniconda` for this material.
 
+</div>
+
 ### OS-specific installation instructions
+
+<div style="text-align: justify"> 
 
 Select the tab that corresponds to your operating system and follow the instructions therein.
 You can, of course, skip sections of tools you have already installed/set up. However, please make sure to run our little `installation test script` outlined at the end of this section and in case, something doesn't work out install the respective tool(s) as outlined here. 
+
+</div>
 
 ````{tab-set}
 ```{tab-item} Windows
@@ -350,22 +371,35 @@ Open a terminal and type the following commands:
 ```
 ````
 
+<div style="text-align: justify"> 
 
 **Note**: If the instructions aren't working and you have spent more than 15-20 minutes troubleshooting on your own, reach out on the #help-installation channel on the Discord channel with the exact problems you're having.
 One of the instructors will try and get back to you quickly to help resolve the situation.
 If they're unable to help via `Discord`, you may be directed to attend one of the installation office hours.
 
+</div>
+
 ### GitHub account
+
+<div style="text-align: justify"> 
 
 Go to https://github.com/join/ and follow the on-screen instructions to create an account.
 It is a good idea to associate this with your university e-mail (if you have one) as this will entitle you to sign up for the [GitHub Student Developer Pack](https://education.github.com/pack) which comes with some nice free bonuses.
 
+</div>
+
 ### Discord
+
+<div style="text-align: justify"> 
 
 Go to https://discord.com/ and download and install Discord. Please note, that you can also use Discord through your browser if you don't want to download it.
 You will be invited to the channel via e-mail.
 
+</div>
+
 ### Modern web browser
+
+<div style="text-align: justify"> 
 
 Please install [Chrome](https://www.google.com/chrome/index.html) or [Firefox](https://www.mozilla.org/en-CA/firefox/new/).
 (Safari might also work.)
@@ -389,7 +423,11 @@ A few of the tools you installed additionally nicely integrate with one another.
 3. [GitHub Project Management](https://github.blog/developer-skills/github/getting-started-with-project-planning-on-github/): create and track tasks for better project management.
 4. Get a [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) app that helps you to stay focus, track your work and get things done. For some examples check this [list](https://www.jotform.com/blog/best-pomodoro-app/).  
 
+</div>
+
 ## Checking your install
+
+<div style="text-align: justify"> 
 
 Now that you've installed everything it's time to check that everything works as expected!
 Type the following into your terminal:
@@ -402,12 +440,17 @@ If you followed these instructions step-by-step and cannot resolve the issue ple
 
 Yeah, you did! Great job!
 
-![logo](https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158)\
-<sub><sup><sub><sup>https://media1.tenor.com/images/d5ebabf248130ec3842ed3b8627fd4f2/tenor.gif?itemid=4770158</sup></sub></sup></sub>
+<p align="center"><iframe src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+
+</div>
 
 ## Getting the content
 
-Now that you have installed the required software (or not) to follow the material, it's time to gather the respective materials.
+<div style="text-align: justify"> 
+
+Now that you have installed the required software (or not) to follow the material, it's time to gather the respective materials. Please note, that you only need to go through these steps if you need/want to work on/with the notebooks, code and data we went through in the [Lectures](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html) and [Tutorials](https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html). The `slides` and related content are always directly linked.
+
+</div>
 
 ```{tabbed} Local
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/>\
@@ -439,8 +482,11 @@ You can use this approach to run and test most of the notebooks and to explore t
 
 ## Enter the matrix
 
+<div style="text-align: justify"> 
+
 Once you reached this point, you should be ready the enter the matrix and follow the material in your preferred way. Congrats, fantastic work!
 
-![logo](https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236)\
-<sub><sup><sub><sup>https://media1.tenor.com/images/e5c21d98f56c4af119b4e14b6a9df893/tenor.gif?itemid=4011236</sup></sub></sup></sub>
+<p align="center"><iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRjY29vbnhhb2J6ejBrdXRnbWx4ZHMzMjFkc2U1cXNvOHBiZnk3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="340" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
+
+</div>
