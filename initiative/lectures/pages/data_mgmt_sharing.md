@@ -14,9 +14,10 @@ Research is hard and super complex. However, it's worse without clear `outlines`
 
 Below you'll find the slides we went through during the session. However, we recommend scrolling further for the more narrative version of the content.
 
-<iframe src="" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1LFoXZpXzqqFZOtCYjb0u5DvkBUoZabhTeWusyeTfnGM/present" frameborder="0" width="595" height="335" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-You can directly access the slides [here]().
+
+You can directly access the slides [here](https://docs.google.com/presentation/d/1LFoXZpXzqqFZOtCYjb0u5DvkBUoZabhTeWusyeTfnGM/present).
 
 ## Data management & sharing
 
