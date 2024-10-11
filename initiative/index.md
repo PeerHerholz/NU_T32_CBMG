@@ -5,12 +5,11 @@
 # Welcome!
 
 ````{margin}
-```{warning} 
+```{note} 
 These pages are currently under construction and will be updated continuously.
 Please visit these pages again in the next few weeks for further information.
 ````
 <br/>
-
 
 Hello everyone and welcome to the course page for the `"Data & Design Workshops"`, taught within the [T32 Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) at [Northwestern University](https://www.northwestern.edu/). We're glad to see you here!
 
@@ -34,20 +33,32 @@ Within these pages, we provide all the information important to follow and condu
 
 
 ## T32 CBMG Data & Design Workshops
+<div style="text-align: justify"> 
 
-No matter the scientific field: obtaining a solid understanding of and gaining substantial hands-on experience with research processes and workflows is crucial, with the tremendously versatile field of `Human Cognition` and `Cognitive Brain Mapping` being no exception to that. Importantly, critical thinking & evaluation, research project management, quantitative & qualitative analyses, etc. enable a holistic approach to the exploration of this fascinating research field. But how should folks learn these things? [The Training Program in the Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) approaches this problem by providing a multitude of training opportunities and support to early career researchers. One major aspect of this aim is to offer courses and tutorials concerning foundational aspects such as data science & management, as well as open & reproducible science. This furthermore entails consultations and office hours for individual researchers and their data.
+No matter the scientific field: obtaining a solid understanding of and gaining substantial hands-on experience with research processes and workflows is crucial, with the tremendously versatile field of `Human Cognition` and `Cognitive Brain Mapping` being no exception to that. Importantly, critical thinking & evaluation, research project management, quantitative & qualitative analyses, etc. enable a holistic approach to the exploration of this fascinating research field. But how should folks learn these things? [The Training Program in the Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) approaches this problem by providing a multitude of training opportunities and support to early career researchers. One major aspect of this aim is to offer lectures and tutorials concerning foundational aspects such as data science & management, as well as open & reproducible science. This furthermore entails consultations and office hours for individual researchers and their data.
+</div>
 
-<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p>
+<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+
+<!-- <p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p> -->
+
+<div style="text-align: justify"> 
 
 Importantly, all of this will be conducted based on [open science principles](https://en.wikipedia.org/wiki/Open_science). This has several important reasons: addressing the faulty direction science and academia in via changing incentive structures ([open methodology](https://en.wikipedia.org/wiki/Open-notebook_science), [open data](https://en.wikipedia.org/wiki/Open_data), [open access](https://en.wikipedia.org/wiki/Open_access),[open peer review](https://en.wikipedia.org/wiki/Open_peer_review)), enable students to become active and self-sufficient parts of the research and scientific community via the sole utilization of [open-source software](https://en.wikipedia.org/wiki/Open_source) and [open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources), as well as increasing the [diversity and inclusivity of science and academia](https://www.psychologicalscience.org/observer/words-to-action) via the diminution of hurdles and barriers: science by everyone for everyone in an open and welcoming manner.            
 
-<p align="center"><iframe src="https://giphy.com/embed/1oIlL0oaAXUJz2xR4o" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/mostexpensivest-viceland-most-expensivest-1oIlL0oaAXUJz2xR4o"><small>via GIPHY</small></a></p></p>
+</div>
+
+<p align="center"><iframe src="https://giphy.com/embed/1oIlL0oaAXUJz2xR4o" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+
+<!-- <p align="center"><a href="https://giphy.com/gifs/mostexpensivest-viceland-most-expensivest-1oIlL0oaAXUJz2xR4o"><small><small><small>via GIPHY</small></small></small></a></p></p> -->
+
+<div style="text-align: justify"> 
 
 As you can see in the `TOC` on the left sidebar, there’s quite a bunch going on here. You may ask: “Oh my, is all of this really necessary?”. Well, it might depend on who you ask but this initiative and the people organizing it think so and here’s why: creating a structured and holistic way to empirically train ECR via a complex framework needs time, effort, details, and dedication. Additionally, to increase openness and sustainability, and thus ultimately the success rate of projects, these things need to be prepared and supplied in a way that is findable, accessible, interoperable and re-usable ([FAIR](https://en.wikipedia.org/wiki/FAIR_data)) for as many people as possible.
 This course is therefore designed to provide only `FAIR` content and materials.
 
 You can use the following sections to navigate through the content of the course:
-
+</div>
 
 ::::{card-carousel} 3
 
@@ -159,12 +170,21 @@ Explore this section {fas}`arrow-right`
 
 ## I've got a question!
 
+<div style="text-align: justify"> 
+
 In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch. A great way to do this is to [open an issue](https://github.com/peerherholz/NU_T32_CBMG/issues) on the
 GitHub site of the course. Every feedback or idea or you might have is also highly appreciated and valued.
 
+</div>
 
-<p align="center"><iframe src="https://giphy.com/embed/ATt7p8OO4mvvO" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/photos-street-sesame-ATt7p8OO4mvvO"><small>via GIPHY</small></a></p></p>
+<p align="center"><iframe src="https://giphy.com/embed/ATt7p8OO4mvvO" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p>
+
+<!-- <p align="center"><a href="https://giphy.com/gifs/photos-street-sesame-ATt7p8OO4mvvO"><small>via GIPHY</small></a></p></p> -->
 
 ## Acknowledgements
 
+<div style="text-align: justify"> 
+
 This initiative is supported by the [T32 in Human Cognition at Northwestern University](https://cogns.northwestern.edu/Training.html).
+
+</div>
