@@ -1,6 +1,12 @@
 # Consultations
 
-Besides the [lectures]() and [tutorials](), this initiative of the [T32 Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) program also entails direct support of interested members through individual and lab `consultations` covering the following topics:
+
+<img align="right" src="https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/consultations_logo.png" alt="logo" title="logo" width="250" height="180" />
+
+
+<div style="text-align: justify"> 
+
+Besides the [Lectures](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html) and [Tutorials](https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html), this initiative of the [T32 Neuroscience of Human Cognition](https://cogns.northwestern.edu/Training.html) program also entails direct support of interested members through individual and lab `consultations` covering the following topics:
 
 
 - **`data science`**, including:
@@ -33,3 +39,5 @@ and we will get back to you as soon as possible (usually within 1-3 days). If th
 
 
 <iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=YdN2fXeCCEekd2ToNmzRvL2Tr_u-42VIrjvlKDRiZ5dUMVFGNFJHTEdaOFRBVlNTTVhLU1dQSFFBTC4u" frameborder="0" width="700" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
