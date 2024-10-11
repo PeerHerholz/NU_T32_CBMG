@@ -8,6 +8,8 @@ chapters:
 - file: lectures/pages/lectures.md
   sections:
   - file: lectures/pages/data_mgmt_sharing.md
+    sections:
+    - file: lectures/notebooks/pybids.ipynb
 - file: tutorials/pages/tutorials.md
   sections:
   - file: experimentation/pages/tutorials_1.md
