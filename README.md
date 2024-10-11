@@ -3,7 +3,7 @@
 # The SPARK course template
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peerherholz/mybinder_NU_T32_CBMG/HEAD)
-[![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/NU_T32_CBMG.svg)](https://github.com/peerherholz/NU_T32_CBMG/archive/master.zip)
+![GitHub repo size](https://img.shields.io/github/repo-size/peerherholz/course_template)
 [![Docker Hub](https://img.shields.io/docker/pulls/peerherholz/NU_T32_CBMG)](https://hub.docker.com/r/peerherholz/NU_T32_CBMG)
 [![License](https://img.shields.io/github/license/peerherholz/NU_T32_CBMG)](https://github.com/peerherholz/NU_T32_CBMG)
 
