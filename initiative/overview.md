@@ -72,7 +72,7 @@ Explore this section {fas}`arrow-right`
 
 Below you'll find an introduction slide deck, providing a respective overview.
 
-<iframe src="https://docs.google.com/presentation/d/1aykYzU7exMbxLhqD6a9ys1wuvPvtQ0rfIKIg2COj7Kg/present" frameborder="0" width="595" height="335" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1aykYzU7exMbxLhqD6a9ys1wuvPvtQ0rfIKIg2COj7Kg/present" frameborder="0" width="690" height="388" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 You can directly access the slides [here](https://docs.google.com/presentation/d/1aykYzU7exMbxLhqD6a9ys1wuvPvtQ0rfIKIg2COj7Kg/present).
 
