@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/T32_CBMG_logo.png" alt="logo" title="logo" width="400" height="300" />
+<img align="center" src="https://raw.githubusercontent.com/PeerHerholz/NU_T32_CBMG/refs/heads/main/initiative/static/course_graphics/T32_CBMG_logo.png" alt="logo" title="logo" width="400" height="300" />
 
 # Welcome!
 
