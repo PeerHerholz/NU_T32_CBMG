@@ -21,6 +21,6 @@ Please see below for our current _optimistic_ schedule. Depending on our progres
 | Date (day/month/year) 🗓 | Section 💡👩🏽‍🏫👨🏻‍🏫 | Topic 🥼🧑🏿‍🔬👩🏻‍🔬 | Location 🌎 |
 |-------------------------|---------------------|-------------------------------|--------------- |
 | 16/10/2024  | [Lecture](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html#) | [Introduction](https://peerherholz.github.io/NU_T32_CBMG/overview.html#overview-procedure)           | [Chicago - Simpson-Querrey 1M-200, Krantz](https://maps.app.goo.gl/c4vQKHK5xqhRGmhx9) |
-| 27/11/2024  | [Lecture](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/lectures.html#) | [Data management & sharing](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/data_mgmt_sharing.html)           | [Chicago - Simpson-Querrey 1M-200, Krantz](https://maps.app.goo.gl/c4vQKHK5xqhRGmhx9) |
+| 27/11/2024  | [Tutorial](https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html) | ["Bring-Your-Own-Data"](https://peerherholz.github.io/NU_T32_CBMG/tutorials/pages/tutorials.html)           | [Chicago - Simpson-Querrey 1M-200, Krantz](https://maps.app.goo.gl/c4vQKHK5xqhRGmhx9) |
 
 </div>
