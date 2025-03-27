@@ -55,4 +55,4 @@ Also, if you need moral support, feel welcome to ping the organizers in person o
 
 
 ## Attribution
-Thanks and credits go the [Montreal Brainhack School]() for providing the CoC, this CoC is based on. 
+Thanks and credits go the [Montreal Brainhack School](https://school.brainhackmtl.org/) for providing the CoC, this CoC is based on. 
