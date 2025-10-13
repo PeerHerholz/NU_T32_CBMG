@@ -14,10 +14,9 @@ Setting up and planning a new study is hard and super complex. Among the most cr
 
 Below you'll find the slides we went through during the session. However, we recommend scrolling further for the more narrative version of the content.
 
-<iframe src="https://docs.google.com/presentation/d/1aIEkpOp7geRhzBu7e42iSa6LsEYlw90JmI8aKu90thw/present" frameborder="0" width="595" height="335" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvATidE3pyht45qpehuEv-bVWZ0adU4vh9CMzIjkKsohzF4CCTEmkEmWnqnHMPZBXPQsKVj9mHGARf/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="690" height="425" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
-You can directly access the slides [here](https://docs.google.com/presentation/d/1aIEkpOp7geRhzBu7e42iSa6LsEYlw90JmI8aKu90thw/present).
+You can directly access the slides [here](https://docs.google.com/presentation/d/10XtKUBoz0fb8qO5piwEPmxqVC14ogz-EBh-5N_Vl9Rk/present).
 
 
 ## optional tasks based on this session 🖥️✍🏽📖

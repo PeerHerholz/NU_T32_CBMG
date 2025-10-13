@@ -1,7 +1,6 @@
 root: index
 format: jb-book
 chapters:
-- file: dei
 - file: overview
 - file: outline
 - file: setup
@@ -10,6 +9,9 @@ chapters:
   - file: lectures/pages/data_mgmt_sharing.md
     sections:
     - file: lectures/notebooks/pybids.ipynb
+  - file: lectures/pages/power_analyses.md
+  - file: lectures/pages/computational_environments.md
+  - file: lectures/pages/clean_code.md
 - file: tutorials/pages/tutorials.md
   sections:
   - file: experimentation/pages/tutorials_1.md
