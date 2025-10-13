@@ -34,10 +34,7 @@ Besides the [Lectures](https://peerherholz.github.io/NU_T32_CBMG/lectures/pages/
 
 This concerns active, ie currently running projects, as well as the preparation and submission of grants.
 
-If you would like to talk to us about any of these topics, please reach out via the [contact form](https://forms.office.com/Pages/ResponsePage.aspx?id=YdN2fXeCCEekd2ToNmzRvL2Tr_u-42VIrjvlKDRiZ5dUMVFGNFJHTEdaOFRBVlNTTVhLU1dQSFFBTC4u) below
-and we will get back to you as soon as possible (usually within 1-3 days). If the form does not appear/load on your end, please just click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=YdN2fXeCCEekd2ToNmzRvL2Tr_u-42VIrjvlKDRiZ5dUMVFGNFJHTEdaOFRBVlNTTVhLU1dQSFFBTC4u) to open it in a new tab.
-
-
-<iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=YdN2fXeCCEekd2ToNmzRvL2Tr_u-42VIrjvlKDRiZ5dUMVFGNFJHTEdaOFRBVlNTTVhLU1dQSFFBTC4u" frameborder="0" width="700" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+If you would like to talk to us about any of these topics, please reach out via the [contact form](https://docs.google.com/forms/d/e/1FAIpQLSeyJlsYe7O1lKtJsWwcxxkD_INNUArJDq_Vb0R13i05YEWQFw/viewform?usp=dialog)
+and we will get back to you as soon as possible (usually within 1-3 days). If the form does not appear/load on your end, please just click [here](https://docs.google.com/forms/d/e/1FAIpQLSeyJlsYe7O1lKtJsWwcxxkD_INNUArJDq_Vb0R13i05YEWQFw/viewform?usp=dialog) to open it.
 
 </div>

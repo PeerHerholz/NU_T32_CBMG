@@ -14,12 +14,10 @@ Research is hard and super complex. However, it's worse without clear `outlines`
 
 Below you'll find the slides we went through during the session. However, we recommend scrolling further for the more narrative version of the content.
 
-<iframe src="https://docs.google.com/presentation/d/1LFoXZpXzqqFZOtCYjb0u5DvkBUoZabhTeWusyeTfnGM/present" frameborder="0" width="595" height="335" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSpt8nsbe4OGHA5qyHHv5qYoCuILhJiaRpjwQQq3WWJj4osaDVCfpJx0LDA87HjgHn_W2_J9vkavuP/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="690" height="425" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-You can directly access the slides [here](https://docs.google.com/presentation/d/1LFoXZpXzqqFZOtCYjb0u5DvkBUoZabhTeWusyeTfnGM/present).
-
-## Data management & sharing
+You can directly access the slides [here](https://docs.google.com/presentation/d/1uhW7ybzHmlgf3AsaTd8W9dX3lrVY2AyHMGgq4m6s3EM/present).
 
 
 ## optional tasks based on this session 🖥️✍🏽📖
@@ -41,7 +39,7 @@ Regarding our discussion on `project & data management`, you could watch the "Da
 
 Along these lines, you could also check the [Turing Way](https://the-turing-way.netlify.app/welcome.html) 
 
-<iframe src="https://the-turing-way.netlify.app/welcome.html" frameborder="0" width="700" height="370"></iframe>
+<iframe src="https://book.the-turing-way.org/" frameborder="0" width="700" height="370"></iframe>
 </br>
 </br>
 

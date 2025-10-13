@@ -72,9 +72,9 @@ Explore this section {fas}`arrow-right`
 
 Below you'll find an introduction slide deck, providing a respective overview.
 
-<iframe src="https://docs.google.com/presentation/d/1aykYzU7exMbxLhqD6a9ys1wuvPvtQ0rfIKIg2COj7Kg/present" frameborder="0" width="690" height="388" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBChKJc2qjrUMH-SYmyR1fe7nXpAao-9RM_lBXPK9YtWs5j3r6c2UDL1hxq0QsHV0_9ZIiEhSll7S2/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="690" height="425" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-You can directly access the slides [here](https://docs.google.com/presentation/d/1aykYzU7exMbxLhqD6a9ys1wuvPvtQ0rfIKIg2COj7Kg/present).
+You can directly access the slides [here](https://docs.google.com/presentation/d/1dAYwca8YmsIxU4-cxxpY_P97CryQqc2U9pbA1azyxTI/present).
 
 
 All of this following [open science principles](https://en.wikipedia.org/wiki/Open_science) as outlined in the [rainbow of open science practices](https://zenodo.org/record/1147025#.YWbeymYzblw) below and the aim to enable you to critically evaluate scientific research. Along this way we will also talk about important topics such as [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) and systematic biases. For a rather precise outline of the course, please consult the respective section.
